@@ -16,4 +16,4 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sachiny0106/repository.git
+git clone https://github.com/sachiny0106/To-do-List.git
