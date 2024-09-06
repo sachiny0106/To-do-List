@@ -11,8 +11,6 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - Remove tasks from the list.
 - Persistent storage using local storage (optional, if implemented).
 
-## Installation
-
 ### Clone the Repository
 
 ```bash
